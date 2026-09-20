@@ -1,0 +1,141 @@
+header{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    text-align: left ;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px solid white;
+    align-items: left;
+}
+
+nav{
+      background-color: rgb(46, 43, 43);
+    color: white;
+    text-align: left ;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px solid white;
+    align-items: left;
+    
+    
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+body{
+    background: url("https://imgs.search.brave.com/kutrNlhVyxH1XLDO26WmoVino-BPL-7vw5Xgil3oEK4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE5LzU0LzI4LzAz/LzM2MF9GXzE5NTQy/ODAzODJfb0c4SkNN/V0cwc202NDRHYzVE/c3l2WEJXNGJTdkR0/dEguanBn");      
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+section{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+section h3{
+    color: white;
+    font-family: 'Almendra', cursive;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    text-align: center;
+}
+div{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Almendra', cursive;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    position: relative;
+}
+div:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 10px white;
+    
+}
+div h3{
+    color: rgb(94, 90, 90);
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family: 'Almendra', cursive;
+}
+
+a{
+    color: rgb(94, 90, 90);
+    text-decoration: none;
+    align-items: center;
+}
+a:hover{
+    color: black;
+}
+
+grid{
+    display: grid;
+    grid-template-columns:  auto auto;
+    gap: 20px;
+}
+section p{
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: 'Almendra', cursive;
+}
+
+section img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px black;
+    align-items: center;
+   
+}
+
+.cat{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    margin-left: 500px;
+    
+
+   
+   
+}
+footer{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    text-align: center;
+    font-family: 'Almendra', cursive;
+    
+    
+    
+}
+ 
+h2{
+    color: white;
+    font-size: 24px;
+    
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Almendra', cursive;
+}
+
+
